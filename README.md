@@ -156,15 +156,13 @@ streamlit run app.py
 
 Add screenshots of your dashboard here.
 
-Example:
+![NER Screenshot 1](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner1.PNG)
 
-```
-![Dashboard 1](ner1.png)
-![Dashboard 2](ner2.png)
-![Dashboard 3](ner3.png)
-![Dashboard 4](ner4.png)
-```
+![NER Screenshot 2](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner2.PNG)
 
+![NER Screenshot 3](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner3.PNG)
+
+![NER Screenshot 4](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner4.PNG)
 ```
 
 ---
