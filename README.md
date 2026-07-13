@@ -14,14 +14,16 @@ This project was developed using an article dataset. After training the custom s
 
 ## ✨ Features
 
-- 🔴 Custom Named Entity Recognition (NER) model
-- 🔴 Built using Python and spaCy
-- 🔴 Trained on an article dataset
-- 🔴 Data preprocessing and cleaning
-- 🔴 Model training and evaluation
-- 🔴 Real-time entity prediction
-- 🔴 Interactive Streamlit dashboard
-- 🔴 User-friendly interface
+- Custom Named Entity Recognition (NER) model built using spaCy
+- Trained on an article-based dataset for entity recognition
+- Data preprocessing and text cleaning pipeline
+- Custom entity annotation and model training
+- Real-time named entity prediction
+- Interactive Streamlit web application
+- Displays detected entities with their corresponding labels
+- User-friendly interface for text analysis
+- Model evaluation and performance analysis
+- Easy to extend with additional entity types and datasets
 
 ---
 
@@ -35,26 +37,7 @@ This project was developed using an article dataset. After training the custom s
 - Matplotlib
 - Plotly
 - Scikit-learn
-- Jupyter Notebook
-
----
-
-## 📂 Project Structure
-
-```
-NER-Project/
-│
-├── Dataset/
-├── Model/
-├── Dashboard/
-├── Images/
-├── notebooks/
-├── app.py
-├── requirements.txt
-├── README.md
-└── trained_model/
-```
-
+- Google Colab
 ---
 
 ## ⚙️ Workflow
@@ -135,7 +118,7 @@ Apple CEO Tim Cook visited London on 20 June 2025.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YousraKanwal121/Your-Repository-Name.git
+git clone https://github.com/YousraKanwal121/Name-Entity-Recognition-NER.git
 ```
 
 ### Install dependencies
@@ -163,17 +146,16 @@ Add screenshots of your dashboard here.
 ![NER Screenshot 3](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner3.PNG)
 
 ![NER Screenshot 4](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner4.PNG)
-```
 
 ---
 
-## 📈 Future Improvements
+## 🚀 Future Improvements
 
 - Improve model accuracy
-- Support more entity types
-- Upload PDF and Word documents
+- Support additional entity types
+- Upload PDF and Word documents for entity extraction
 - Deploy the application online
-- Add confidence scores
+- Add confidence scores for predictions
 - Support multiple languages
 
 ---
@@ -182,10 +164,7 @@ Add screenshots of your dashboard here.
 
 **Yousra Kanwal**
 
-Software Engineering Student
+Software Engineer
 
-GitHub: https://github.com/YousraKanwal121
-
-
----
+**GitHub:** https://github.com/YousraKanwal121
 
